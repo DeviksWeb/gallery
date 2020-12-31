@@ -1,1 +1,2 @@
-# gallery
+#### Start:
+```npm run serve``
